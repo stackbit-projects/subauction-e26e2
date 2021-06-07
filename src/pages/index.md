@@ -131,12 +131,12 @@ sections:
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          SubAuction is on a right track to be the first NFT marketplace on
+          Polkadot and Kusama networks. Well done!
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Aleksander Mitrovich,** *CEO, Unique Network*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
