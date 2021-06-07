@@ -55,7 +55,7 @@ sections:
     title: Our work
     subtitle: What we accomplished
     features:
-      - title: Polkadot hackathon
+      - title: Hackathon MVP
         subtitle: 02/2021
         content: >
           We participated in Hack Encode hackathon in Polkadot category where we
