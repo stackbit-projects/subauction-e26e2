@@ -81,7 +81,8 @@ sections:
           Dutch or Top-up auction.
         actions:
           - label: See our application
-            url: /about
+            url: >-
+              https://github.com/w3f/Open-Grants-Program/blob/master/applications/subauction.md
             style: secondary
             has_icon: true
             icon: arrow-right
