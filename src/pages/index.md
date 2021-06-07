@@ -80,7 +80,7 @@ sections:
           auction mechanics and introduce new auction types such as Candle,
           Dutch or Top-up auction.
         actions:
-          - label: 'See our '
+          - label: See our application
             url: /about
             style: secondary
             has_icon: true
