@@ -23,6 +23,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    video_embed_html: 'https://www.youtube.com/watch?v=J1Kr92sGVCI'
   - type: grid_section
     title: We're in touch with the biggest NFT players on Polkadot network
     subtitle: Who we work with
