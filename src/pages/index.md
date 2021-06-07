@@ -40,7 +40,7 @@ sections:
       - image: images/rmrk.jpg
         image_alt: Logo 3
         image_align: center
-      - image: images/logo-4.svg
+      - image: images/kodadot.jpg
         image_alt: Logo 4
         image_align: center
       - image_alt: Logo 5
