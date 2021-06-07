@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: NFT auctions on Kusama and Polkadot
-    subtitle: 'SubAuction brings various types of auctions for NFT tokens. English,'
+    subtitle: >-
+      Choose from various types of auctions for NFT tokens. English, candle,
+      dutch or top-up auction
     actions:
       - label: Contact Me
         url: /contact
