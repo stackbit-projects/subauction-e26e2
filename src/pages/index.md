@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: NFT auctions on Kusama and Polkadot
-    subtitle: SubAuction brings auctions of NFT tokens to Kusama and Polkadot
+    subtitle: >-
+      SubAuction brings various types of auctions of NFT tokens to Kusama and
+      Polkadot
     actions:
       - label: Contact Me
         url: /contact
