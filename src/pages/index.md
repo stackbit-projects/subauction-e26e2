@@ -28,7 +28,7 @@ sections:
     subtitle: Who we work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/unique-network.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
