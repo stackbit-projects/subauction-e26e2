@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: SubAuction brings auctions of NFT tokens to Kusama and Polkadot
-    subtitle: 'Mint your own NFT, put it up for auction and'
+    subtitle: SubAuction brings auctions of NFT tokens to Kusama and Polkadot
     actions:
       - label: Contact Me
         url: /contact
