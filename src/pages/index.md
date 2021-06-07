@@ -57,10 +57,9 @@ sections:
     features:
       - title: Polkadot hackathon
         subtitle: 02/2021
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          We participated in Hack Encode hackathon in Polkadot category where we
+          took 2nd place with our prototype of English auction for NFT tokens.
         actions:
           - label: See Writing Samples
             url: /faq
