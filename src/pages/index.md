@@ -31,7 +31,7 @@ sections:
       - image: images/unique-network.png
         image_alt: Logo 1
         image_align: center
-      - image: images/kodadot.jpg
+      - image: images/hydradx.png
         image_alt: Logo 2
         image_align: center
         image_width: sixty
