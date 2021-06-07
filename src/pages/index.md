@@ -35,6 +35,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         image_width: sixty
+        image_has_padding: true
       - image: images/rmrk.jpg
         image_alt: Logo 3
         image_align: center
