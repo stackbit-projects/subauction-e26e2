@@ -24,7 +24,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: We're in touch with the biggest NFT players on Polkadot network
     subtitle: Who we work with
     align: center
     grid_items:
