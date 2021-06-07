@@ -61,7 +61,7 @@ sections:
           We participated in Hack Encode hackathon in Polkadot category where we
           took 2nd place with our prototype of English auction for NFT tokens.
         actions:
-          - label: See Writing Samples
+          - label: Check
             url: /faq
             style: primary
             has_icon: true
