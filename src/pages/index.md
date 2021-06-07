@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: NFT auctions on Kusama and Polkadot
     subtitle: >-
-      Choose from various types of auctions for NFT tokens. English, candle,
-      dutch or top-up auction
+      SubAuction is a unified, easy-to-use marketplace for NFT tokens. Choose
+      from various types of auctions such as English, Candle, Dutch or Top-up
+      auction.
     actions:
       - label: Contact Me
         url: /contact
