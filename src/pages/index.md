@@ -62,7 +62,8 @@ sections:
           took 2nd place with our prototype of English auction for NFT tokens.
         actions:
           - label: Check the hackathon winners
-            url: /faq
+            url: >-
+              https://medium.com/encode-club/encode-hack-club-summary-and-prizewinners-5324b4a53e35
             style: primary
             has_icon: true
             icon: arrow-right
