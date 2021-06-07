@@ -35,7 +35,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         image_width: sixty
-      - image: images/logo-3.svg
+      - image: images/rmrk.jpg
         image_alt: Logo 3
         image_align: center
       - image: images/logo-4.svg
