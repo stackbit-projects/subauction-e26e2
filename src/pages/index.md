@@ -52,7 +52,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My services
+    title: Our work
     subtitle: What we accomplished
     features:
       - title: Content Creation
