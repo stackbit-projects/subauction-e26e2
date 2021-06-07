@@ -74,10 +74,11 @@ sections:
         media_width: sixty
       - title: Polkadot grant
         subtitle: 04/2021
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          To extend our initial proof of concept of English auction, we
+          successfully applied for a Polkadot grant to help us standardize
+          auction mechanics and introduce new auction types such as Candle,
+          Dutch or Top-up auction.
         actions:
           - label: Learn More
             url: /about
