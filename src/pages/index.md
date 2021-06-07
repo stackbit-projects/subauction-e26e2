@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Subauction brings NFT marketplace to Kusama network
+    title: Subauction brings auctions of NFT tokens to Kusama and Polkadot
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
