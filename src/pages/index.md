@@ -8,7 +8,7 @@ sections:
       from various types of auctions such as English, Candle, Dutch or Top-up
       auction.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: primary
     image: images/hero.png
