@@ -93,10 +93,9 @@ sections:
         media_width: sixty
       - title: Launch on Kusama
         subtitle: 09/2021
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Together with ecosystem partners, we aim to provide an NFT marketplace
+          solution with exclusive content curated by DAO.
         actions:
           - label: See Past Work
             url: /faq
