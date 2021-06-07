@@ -55,7 +55,7 @@ sections:
     title: Our work
     subtitle: What we accomplished
     features:
-      - title: Content Creation
+      - title: Polkadot hackathon
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
