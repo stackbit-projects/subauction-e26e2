@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Subauction brings auctions of NFT tokens to Kusama and Polkadot
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: 'Mint your own NFT, put it up for auction and'
     actions:
       - label: Contact Me
         url: /contact
